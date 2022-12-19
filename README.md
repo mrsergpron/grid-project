@@ -1,4 +1,4 @@
 # Проект верстки сайта с помощью grid
 
-- Проект построен на: HTML / CSS / Grid
+- Проект построен на: HTML / SCSS / Grid
 - [Открыть проект](https://mrsergpron.github.io/grid-project/)
